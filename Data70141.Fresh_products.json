@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19ab"
+  },
+  "categories": "drinks",
+  "weight_or_quantity": 1000,
+  "expiry_date": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "origin_country": "USA",
+  "product": {
+    "$oid": "6754b398f6dd978e8741333a"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19ae"
+  },
+  "categories": "drinks",
+  "weight_or_quantity": 1200,
+  "expiry_date": {
+    "$date": "2024-12-22T00:00:00.000Z"
+  },
+  "origin_country": "UK",
+  "product": {
+    "$oid": "6754b399f6dd978e8741333d"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19b1"
+  },
+  "categories": "fruits and vegetables",
+  "weight_or_quantity": 1,
+  "expiry_date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "origin_country": "Mexico",
+  "product": {
+    "$oid": "6754b399f6dd978e87413340"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19b2"
+  },
+  "categories": "fruits and vegetables",
+  "weight_or_quantity": 2,
+  "expiry_date": {
+    "$date": "2024-12-10T00:00:00.000Z"
+  },
+  "origin_country": "India",
+  "product": {
+    "$oid": "6754b399f6dd978e87413341"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bc"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19a7"
+  },
+  "categories": "bakery",
+  "weight_or_quantity": 250,
+  "expiry_date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "origin_country": "France",
+  "product": {
+    "$oid": "6754b398f6dd978e87413336"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19a8"
+  },
+  "categories": "bakery",
+  "weight_or_quantity": 300,
+  "expiry_date": {
+    "$date": "2024-12-09T00:00:00.000Z"
+  },
+  "origin_country": "Germany",
+  "product": {
+    "$oid": "6754b398f6dd978e87413337"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bc"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19ac"
+  },
+  "categories": "drinks",
+  "weight_or_quantity": 750,
+  "expiry_date": {
+    "$date": "2024-12-18T00:00:00.000Z"
+  },
+  "origin_country": "Germany",
+  "product": {
+    "$oid": "6754b399f6dd978e8741333b"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19b4"
+  },
+  "categories": "fruits and vegetables",
+  "weight_or_quantity": 2.5,
+  "expiry_date": {
+    "$date": "2024-12-15T00:00:00.000Z"
+  },
+  "origin_country": "Brazil",
+  "product": {
+    "$oid": "6754b399f6dd978e87413343"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19be"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19a9"
+  },
+  "categories": "bakery",
+  "weight_or_quantity": 450,
+  "expiry_date": {
+    "$date": "2024-12-15T00:00:00.000Z"
+  },
+  "origin_country": "Italy",
+  "product": {
+    "$oid": "6754b398f6dd978e87413338"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19aa"
+  },
+  "categories": "bakery",
+  "weight_or_quantity": 200,
+  "expiry_date": {
+    "$date": "2024-12-05T00:00:00.000Z"
+  },
+  "origin_country": "UK",
+  "product": {
+    "$oid": "6754b398f6dd978e87413339"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19be"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19b0"
+  },
+  "categories": "fruits and vegetables",
+  "weight_or_quantity": 1.5,
+  "expiry_date": {
+    "$date": "2024-12-05T00:00:00.000Z"
+  },
+  "origin_country": "USA",
+  "product": {
+    "$oid": "6754b399f6dd978e8741333f"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19b3"
+  },
+  "categories": "fruits and vegetables",
+  "weight_or_quantity": 1.8,
+  "expiry_date": {
+    "$date": "2024-12-12T00:00:00.000Z"
+  },
+  "origin_country": "China",
+  "product": {
+    "$oid": "6754b399f6dd978e87413342"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19a6"
+  },
+  "categories": "bakery",
+  "weight_or_quantity": 500,
+  "expiry_date": {
+    "$date": "2024-12-10T00:00:00.000Z"
+  },
+  "origin_country": "USA",
+  "product": {
+    "$oid": "6754b398f6dd978e87413335"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19ba"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19ad"
+  },
+  "categories": "drinks",
+  "weight_or_quantity": 500,
+  "expiry_date": {
+    "$date": "2024-12-12T00:00:00.000Z"
+  },
+  "origin_country": "France",
+  "product": {
+    "$oid": "6754b399f6dd978e8741333c"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19bc"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752d39b9cab0e03823a19af"
+  },
+  "categories": "drinks",
+  "weight_or_quantity": 600,
+  "expiry_date": {
+    "$date": "2024-12-25T00:00:00.000Z"
+  },
+  "origin_country": "Spain",
+  "product": {
+    "$oid": "6754b399f6dd978e8741333e"
+  },
+  "store_id": {
+    "$oid": "6752d4f69cab0e03823a19be"
+  }
+}]

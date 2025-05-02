@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a1979"
+  },
+  "artist": "Adele",
+  "number_of_tracks": 12,
+  "total_playing_time": 45,
+  "publisher": "Columbia Records",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2ab"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a1980"
+  },
+  "artist": "Eminem",
+  "number_of_tracks": 18,
+  "total_playing_time": 70,
+  "publisher": "Shady Records",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2b2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a197a"
+  },
+  "artist": "Taylor Swift",
+  "number_of_tracks": 16,
+  "total_playing_time": 60,
+  "publisher": "Republic Records",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2ac"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a197c"
+  },
+  "artist": "Ed Sheeran",
+  "number_of_tracks": 10,
+  "total_playing_time": 42,
+  "publisher": "Atlantic Records",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2ae"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a197e"
+  },
+  "artist": "Drake",
+  "number_of_tracks": 13,
+  "total_playing_time": 47,
+  "publisher": "OVO Sound",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2b0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a197b"
+  },
+  "artist": "The Beatles",
+  "number_of_tracks": 14,
+  "total_playing_time": 50,
+  "publisher": "Apple Records",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2ad"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a197d"
+  },
+  "artist": "Beyoncé",
+  "number_of_tracks": 15,
+  "total_playing_time": 55,
+  "publisher": "Parkwood Entertainment",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2af"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a197f"
+  },
+  "artist": "Coldplay",
+  "number_of_tracks": 11,
+  "total_playing_time": 40,
+  "publisher": "Parlophone",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2b1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a1981"
+  },
+  "artist": "Rihanna",
+  "number_of_tracks": 20,
+  "total_playing_time": 75,
+  "publisher": "Def Jam",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2b3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ce509cab0e03823a1982"
+  },
+  "artist": "Lady Gaga",
+  "number_of_tracks": 19,
+  "total_playing_time": 73,
+  "publisher": "Interscope Records",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2b4"
+  }
+}]

@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a1987"
+  },
+  "brand": "Xiaomi",
+  "model": "13 Ultra",
+  "colour": "Olive Green",
+  "features": "512GB, 5G, Android",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef29b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a1988"
+  },
+  "brand": "Huawei",
+  "model": "Mate 50",
+  "colour": "Golden Black",
+  "features": "256GB, HarmonyOS",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef29c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a198a"
+  },
+  "brand": "Nokia",
+  "model": "G60",
+  "colour": "Pure Black",
+  "features": "128GB, 5G, Android",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef29e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a198b"
+  },
+  "brand": "Oppo",
+  "model": "Find X5",
+  "colour": "Cosmic Black",
+  "features": "256GB, 5G, Android",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef29f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a1985"
+  },
+  "brand": "Google",
+  "model": "Pixel 7",
+  "colour": "Snow",
+  "features": "128GB, 5G, Android",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef299"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a1983"
+  },
+  "brand": "Apple",
+  "model": "iPhone 14",
+  "colour": "Midnight",
+  "features": "128GB, 5G, iOS",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef297"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a198c"
+  },
+  "brand": "Vivo",
+  "model": "X90",
+  "colour": "Legendary Black",
+  "features": "256GB, 5G, Android",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a1984"
+  },
+  "brand": "Samsung",
+  "model": "Galaxy S23",
+  "colour": "Phantom Black",
+  "features": "256GB, 5G, Android",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef298"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a1986"
+  },
+  "brand": "OnePlus",
+  "model": "11 Pro",
+  "colour": "Emerald Green",
+  "features": "256GB, 5G, Android",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef29a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cee39cab0e03823a1989"
+  },
+  "brand": "Sony",
+  "model": "Xperia 1 V",
+  "colour": "Frosted Black",
+  "features": "128GB, 5G, Android",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef29d"
+  }
+}]

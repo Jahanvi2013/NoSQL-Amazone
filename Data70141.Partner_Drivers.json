@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "67569dbcc3bd429393edf989"
+  },
+  "driver_id": "D001",
+  "name": "John Doe",
+  "gender": "Male",
+  "age": 35,
+  "address": "123 Queen's Road, London, SW19 8NN",
+  "current_location": {
+    "type": "Point",
+    "coordinates": [
+      -0.2014,
+      51.4101
+    ]
+  },
+  "status": "in-transit",
+  "jobs": [
+    {
+      "order": {
+        "$oid": "6752da859cab0e03823a19c7"
+      },
+      "job_status": "delivered",
+      "distance_traveled": 25.4,
+      "pay_out": 50
+    },
+    {
+      "order": {
+        "$oid": "6752da859cab0e03823a19c6"
+      },
+      "job_status": "in-transit",
+      "distance_traveled": 10,
+      "pay_out": 20
+    },
+    {
+      "order": {
+        "$oid": "675c45e2c045102a2fb89a11"
+      },
+      "job_status": "picked",
+      "distance_traveled": 0,
+      "pay_out": 0.34900000000000003
+    },
+    {
+      "order": {
+        "$oid": "675c45e2c045102a2fb89a11"
+      },
+      "job_status": "asigned",
+      "distance_traveled": 0,
+      "pay_out": 0.34900000000000003
+    }
+  ],
+  "total_deliveries": 30,
+  "total_pay_out": 900
+},
+{
+  "_id": {
+    "$oid": "67569dbcc3bd429393edf98a"
+  },
+  "driver_id": "D002",
+  "name": "Jane Smith",
+  "gender": "Female",
+  "age": 28,
+  "address": "45 Oxford Street, Manchester, M1 5AL",
+  "current_location": {
+    "type": "Point",
+    "coordinates": [
+      -2.2438,
+      53.4793
+    ]
+  },
+  "status": "inactive",
+  "total_deliveries": 0,
+  "total_pay_out": 0
+},
+{
+  "_id": {
+    "$oid": "67569dbcc3bd429393edf98c"
+  },
+  "driver_id": "D004",
+  "name": "Emily Davis",
+  "gender": "Female",
+  "age": 32,
+  "address": "78 George Street, Edinburgh, EH2 2LR",
+  "current_location": {
+    "type": "Point",
+    "coordinates": [
+      -3.1904,
+      55.9526
+    ]
+  },
+  "status": "inactive",
+  "total_deliveries": 0,
+  "total_pay_out": 0
+},
+{
+  "_id": {
+    "$oid": "67569dbcc3bd429393edf98d"
+  },
+  "driver_id": "D005",
+  "name": "Chris Lee",
+  "gender": "Non-binary",
+  "age": 27,
+  "address": "25 Hope Street, Glasgow, G2 6AB",
+  "current_location": {
+    "type": "Point",
+    "coordinates": [
+      -4.2538,
+      55.8631
+    ]
+  },
+  "status": "active",
+  "jobs": [
+    {
+      "order": {
+        "$oid": "650a3f0e7658e7b2fc6f4abf"
+      },
+      "job_status": "in-transit",
+      "distance_traveled": 8.2,
+      "pay_out": 15
+    },
+    {
+      "order": {
+        "$oid": "6752dd1b9cab0e03823a19f7"
+      },
+      "job_status": "picked",
+      "distance_traveled": 5.3,
+      "pay_out": 10
+    }
+  ],
+  "total_deliveries": 15,
+  "total_pay_out": 300
+},
+{
+  "_id": {
+    "$oid": "67569dbcc3bd429393edf98b"
+  },
+  "driver_id": "D003",
+  "name": "Alex Johnson",
+  "gender": "Male",
+  "age": 40,
+  "address": "15 High Street, Birmingham, B4 7SL",
+  "current_location": {
+    "type": "Point",
+    "coordinates": [
+      -1.8927,
+      52.4851
+    ]
+  },
+  "status": "in-transit",
+  "jobs": [
+    {
+      "order": {
+        "$oid": "6752db019cab0e03823a19cf"
+      },
+      "job_status": "picked",
+      "distance_traveled": 12.7,
+      "pay_out": 18.5
+    },
+    {
+      "order": {
+        "$oid": "675b68f2c045102a2fb89a10"
+      },
+      "job_status": "picked",
+      "distance_traveled": 0,
+      "pay_out": 0.349
+    }
+  ],
+  "total_deliveries": 20,
+  "total_pay_out": 350
+}]

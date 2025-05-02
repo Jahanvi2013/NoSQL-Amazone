@@ -1,0 +1,3886 @@
+[{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d5"
+  },
+  "total_cost": 23.47,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd003"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d9"
+  },
+  "total_cost": 33.47,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-29T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd003"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19f8"
+  },
+  "total_cost": 65.45,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423d"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19fc"
+  },
+  "total_cost": 42.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-29T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44231"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a1a01"
+  },
+  "total_cost": 63.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-12T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423b"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd009"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a09"
+  },
+  "total_cost": 241.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-03T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334c"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a0e"
+  },
+  "total_cost": 52.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-08T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd011"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a15"
+  },
+  "total_cost": 21.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-01T17:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a1c"
+  },
+  "total_cost": 68.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-28T18:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333f"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd013"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a2e"
+  },
+  "total_cost": 375.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-30T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334a"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd016"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a33"
+  },
+  "total_cost": 61.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-31T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44231"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd017"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a3d"
+  },
+  "total_cost": 171.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-16T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4422f"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413345"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd019"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de7a9cab0e03823a1a46"
+  },
+  "total_cost": 524.94,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-27T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44239"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413353"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e00e9cab0e03823a1a54"
+  },
+  "total_cost": 7.87,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-05-22T17:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413339"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333d"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e2739cab0e03823a1a66"
+  },
+  "total_cost": 156.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-08-15T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334b"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423d"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd013"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e2c79cab0e03823a1a69"
+  },
+  "total_cost": 843.46,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-05-05T16:10:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334e"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44240"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd016"
+  }
+},
+{
+  "_id": {
+    "$oid": "675c46b1c045102a2fb89a12"
+  },
+  "total_cost": 60.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-12-13T14:37:37.241Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423f"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423c"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d6"
+  },
+  "total_cost": 26.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-18T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd003"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a18"
+  },
+  "total_cost": 54.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T18:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4422f"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4422f"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd013"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a1f"
+  },
+  "total_cost": 35.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-18T19:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423f"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413342"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a26"
+  },
+  "total_cost": 13.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-05T20:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413342"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd015"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a32"
+  },
+  "total_cost": 90.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-05T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44237"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44240"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd017"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a36"
+  },
+  "total_cost": 82.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T23:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423b"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423e"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a3a"
+  },
+  "total_cost": 59.43,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-31T23:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423c"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de7a9cab0e03823a1a43"
+  },
+  "total_cost": 389.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-15T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44236"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413347"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e0009cab0e03823a1a49"
+  },
+  "total_cost": 656.96,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-11-12T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423c"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413354"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e0009cab0e03823a1a4a"
+  },
+  "total_cost": 676.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-09-20T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423d"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413357"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e00e9cab0e03823a1a53"
+  },
+  "total_cost": 5.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-06-18T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413338"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333f"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e00e9cab0e03823a1a55"
+  },
+  "total_cost": 14.46,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-04-10T11:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333b"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e14c9cab0e03823a1a57"
+  },
+  "total_cost": 15.56,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-11-14T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413337"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd004"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e14c9cab0e03823a1a59"
+  },
+  "total_cost": 9.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-08-05T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413343"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd004"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e2cf9cab0e03823a1a6c"
+  },
+  "total_cost": 69.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-02-14T13:45:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44233"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd019"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d2"
+  },
+  "total_cost": 7.36,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-30T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413341"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd002"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19da"
+  },
+  "total_cost": 69.94,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-22T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4422f"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd003"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a05"
+  },
+  "total_cost": 54.97,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413346"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a0f"
+  },
+  "total_cost": 74.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-02T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44239"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44239"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd011"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a14"
+  },
+  "total_cost": 19.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-06T17:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a20"
+  },
+  "total_cost": 19.85,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-08T19:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413337"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a22"
+  },
+  "total_cost": 23.43,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-30T19:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413343"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a24"
+  },
+  "total_cost": 9.65,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T20:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413340"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413339"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd015"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a30"
+  },
+  "total_cost": 69.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd017"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a34"
+  },
+  "total_cost": 104.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-29T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44239"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44239"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd017"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e00e9cab0e03823a1a51"
+  },
+  "total_cost": 11.76,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-08-20T09:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413336"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413341"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e1a89cab0e03823a1a60"
+  },
+  "total_cost": 70.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-08-07T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413345"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd005"
+  }
+},
+{
+  "_id": {
+    "$oid": "675b33e0c045102a2fb89a0f"
+  },
+  "total_cost": 55.46,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-12-12T19:03:39.898Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44241"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752da859cab0e03823a19c6"
+  },
+  "total_cost": 9.86,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-02T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413335"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413340"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd001"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752da859cab0e03823a19cc"
+  },
+  "total_cost": 9.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-30T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333b"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413342"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd001"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d4"
+  },
+  "total_cost": 17.55,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-03T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413343"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd003"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d7"
+  },
+  "total_cost": 34.85,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-12T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4422f"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd003"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19fa"
+  },
+  "total_cost": 52.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-15T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423f"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19ff"
+  },
+  "total_cost": 43.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423e"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd009"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a1a02"
+  },
+  "total_cost": 98.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-04T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44237"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd009"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a11"
+  },
+  "total_cost": 50.97,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T17:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423b"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423b"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a25"
+  },
+  "total_cost": 13.05,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-15T20:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413341"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd015"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a2d"
+  },
+  "total_cost": 825.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-03T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413349"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd016"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a40"
+  },
+  "total_cost": 264.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-29T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334c"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd019"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de7a9cab0e03823a1a42"
+  },
+  "total_cost": 241.96,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413351"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e0009cab0e03823a1a48"
+  },
+  "total_cost": 516.98,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-11-10T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423b"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334f"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e00e9cab0e03823a1a52"
+  },
+  "total_cost": 7.37,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-07-30T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413337"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413338"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e14c9cab0e03823a1a58"
+  },
+  "total_cost": 8.17,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-09-10T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333d"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413335"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd004"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e14c9cab0e03823a1a5a"
+  },
+  "total_cost": 9.46,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-07-20T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333f"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413336"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd004"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e14c9cab0e03823a1a5c"
+  },
+  "total_cost": 6.07,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-05-30T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413341"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd004"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e1a89cab0e03823a1a5e"
+  },
+  "total_cost": 10.27,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-11-14T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413343"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd005"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e1a89cab0e03823a1a61"
+  },
+  "total_cost": 111.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-07-18T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413346"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4422f"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd005"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e2c79cab0e03823a1a6a"
+  },
+  "total_cost": 1014.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-04-22T14:50:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334f"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44231"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd017"
+  }
+},
+{
+  "_id": {
+    "$oid": "675b68f2c045102a2fb89a10"
+  },
+  "total_cost": 53.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-12-12T22:51:30.477Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423d"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423b"
+      }
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752da859cab0e03823a19cb"
+  },
+  "total_cost": 11.46,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-03T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333b"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd001"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19cd"
+  },
+  "total_cost": 18.25,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-02T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413337"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd002"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d0"
+  },
+  "total_cost": 9.46,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-08T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333f"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413336"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd002"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a1a00"
+  },
+  "total_cost": 74.54,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-20T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44241"
+      },
+      "quantity": 4
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd009"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a06"
+  },
+  "total_cost": 138.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413345"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a10"
+  },
+  "total_cost": 90.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-31T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd011"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a17"
+  },
+  "total_cost": 31.47,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T18:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd013"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a19"
+  },
+  "total_cost": 59.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-14T18:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44232"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44232"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd013"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a29"
+  },
+  "total_cost": 110.47,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413345"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd017"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a2b"
+  },
+  "total_cost": 385.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-18T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413347"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44232"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd016"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a2c"
+  },
+  "total_cost": 512.48,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-08T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413348"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd016"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a31"
+  },
+  "total_cost": 81.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-15T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44236"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423f"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd017"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de7a9cab0e03823a1a41"
+  },
+  "total_cost": 149.97,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334b"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e0009cab0e03823a1a4c"
+  },
+  "total_cost": 855.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-07-10T11:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423f"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413349"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e22b9cab0e03823a1a65"
+  },
+  "total_cost": 712.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-09-25T14:30:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334a"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e2739cab0e03823a1a67"
+  },
+  "total_cost": 313.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-07-20T11:45:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334c"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e3ae9cab0e03823a1a6d"
+  },
+  "total_cost": 41.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-01-10T11:30:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423e"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd010"
+  }
+},
+{
+  "_id": {
+    "$oid": "675c45e2c045102a2fb89a11"
+  },
+  "total_cost": 55.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-12-13T14:34:10.660Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44237"
+      }
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19ce"
+  },
+  "total_cost": 14.15,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333d"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413335"
+      },
+      "quantity": 4
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd002"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d3"
+  },
+  "total_cost": 10.47,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-25T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413342"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd002"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d8"
+  },
+  "total_cost": 41.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-05T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44232"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd003"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19f7"
+  },
+  "total_cost": 48.96,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44232"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19fb"
+  },
+  "total_cost": 82.94,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-03T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423d"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44240"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19fd"
+  },
+  "total_cost": 114.92,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-22T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423f"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44239"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a1a03"
+  },
+  "total_cost": 78.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-30T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4422f"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423c"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd009"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a0a"
+  },
+  "total_cost": 329.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-28T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423f"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334b"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a0b"
+  },
+  "total_cost": 41.97,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd011"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a12"
+  },
+  "total_cost": 94.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T17:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423c"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423c"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a13"
+  },
+  "total_cost": 17.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-16T17:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a16"
+  },
+  "total_cost": 69.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-30T17:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a1b"
+  },
+  "total_cost": 64.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-29T18:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd013"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a1e"
+  },
+  "total_cost": 46.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T19:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333b"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a21"
+  },
+  "total_cost": 12.55,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-03T19:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333d"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413335"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a27"
+  },
+  "total_cost": 17.55,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-31T20:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413343"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333c"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd015"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a28"
+  },
+  "total_cost": 519.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-29T20:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413344"
+      },
+      "quantity": 5
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd015"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a2a"
+  },
+  "total_cost": 111.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413346"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4422f"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd016"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a38"
+  },
+  "total_cost": 30.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-07T23:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423b"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a3b"
+  },
+  "total_cost": 39.97,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44236"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd019"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a3c"
+  },
+  "total_cost": 91.45,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413346"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd019"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a3e"
+  },
+  "total_cost": 107.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-06T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44232"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334d"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd019"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de7a9cab0e03823a1a44"
+  },
+  "total_cost": 425.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-05T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44237"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334a"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752df229cab0e03823a1a47"
+  },
+  "total_cost": 525.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-15T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413348"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e00e9cab0e03823a1a50"
+  },
+  "total_cost": 6.87,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-11-09T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413335"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413340"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e14c9cab0e03823a1a56"
+  },
+  "total_cost": 7.47,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-11-12T11:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333b"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413342"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd004"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e1a89cab0e03823a1a5d"
+  },
+  "total_cost": 14.46,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-11-12T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413342"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd005"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e1a89cab0e03823a1a5f"
+  },
+  "total_cost": 209.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-09-10T12:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413344"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44234"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd005"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e1a89cab0e03823a1a63"
+  },
+  "total_cost": 1012.47,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-05-10T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413348"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd005"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e2c79cab0e03823a1a68"
+  },
+  "total_cost": 133.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-06-10T15:20:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334d"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423f"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd015"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e2cf9cab0e03823a1a6b"
+  },
+  "total_cost": 714.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-03-18T12:30:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413350"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44239"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752da859cab0e03823a19c7"
+  },
+  "total_cost": 9.56,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413336"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413341"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd001"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752da859cab0e03823a19c8"
+  },
+  "total_cost": 10.06,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-18T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413337"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413338"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd001"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752da859cab0e03823a19c9"
+  },
+  "total_cost": 7.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-12T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413338"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333f"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd001"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752da859cab0e03823a19ca"
+  },
+  "total_cost": 7.87,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-08T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413339"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333d"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd001"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19cf"
+  },
+  "total_cost": 9.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-15T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413343"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd002"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752db019cab0e03823a19d1"
+  },
+  "total_cost": 8.76,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-03T10:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413340"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413339"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd002"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19f9"
+  },
+  "total_cost": 79.94,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-21T13:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44235"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a1a04"
+  },
+  "total_cost": 115.93,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-25T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44232"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44236"
+      },
+      "quantity": 4
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd009"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd909cab0e03823a1a1a"
+  },
+  "total_cost": 62.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-04T18:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd013"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a23"
+  },
+  "total_cost": 7.47,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T20:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333f"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413336"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd015"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de159cab0e03823a1a2f"
+  },
+  "total_cost": 143.48,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334b"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423d"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd017"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a39"
+  },
+  "total_cost": 49.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-02T23:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e8741333a"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44237"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de7a9cab0e03823a1a45"
+  },
+  "total_cost": 381.46,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-28T21:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44238"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413350"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e0009cab0e03823a1a4e"
+  },
+  "total_cost": 816.48,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-05-10T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44241"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413355"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e14c9cab0e03823a1a5b"
+  },
+  "total_cost": 7.87,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-06-25T17:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413340"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b398f6dd978e87413339"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd004"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e2109cab0e03823a1a64"
+  },
+  "total_cost": 825.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-01T10:30:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413349"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44230"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd011"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd1b9cab0e03823a19fe"
+  },
+  "total_cost": 22.97,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T14:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333e"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44233"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd009"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a07"
+  },
+  "total_cost": 205.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-18T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334d"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a08"
+  },
+  "total_cost": 153.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-10T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423d"
+      },
+      "quantity": 4
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413344"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd010"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a0c"
+  },
+  "total_cost": 99.95,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-07T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44236"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44236"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd011"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752dd5f9cab0e03823a1a0d"
+  },
+  "total_cost": 94.95,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-17T16:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44237"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44237"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd011"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ddce9cab0e03823a1a1d"
+  },
+  "total_cost": 29.17,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T19:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423d"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741333d"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a35"
+  },
+  "total_cost": 41.97,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-12-06T23:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423a"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44233"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a37"
+  },
+  "total_cost": 87.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-11-17T23:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423c"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44241"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752de539cab0e03823a1a3f"
+  },
+  "total_cost": 237.45,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-10-30T22:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 3
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413344"
+      },
+      "quantity": 2
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd019"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e0009cab0e03823a1a4b"
+  },
+  "total_cost": 715.98,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-08-15T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb4423e"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413352"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e0009cab0e03823a1a4d"
+  },
+  "total_cost": 828.97,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-06-25T12:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44240"
+      },
+      "quantity": 2
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e8741334e"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e00e9cab0e03823a1a4f"
+  },
+  "total_cost": 912.48,
+  "is_current": true,
+  "order_date": {
+    "$date": "2024-11-05T11:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44242"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413356"
+      },
+      "quantity": 1
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752e1a89cab0e03823a1a62"
+  },
+  "total_cost": 385.96,
+  "is_current": false,
+  "order_date": {
+    "$date": "2024-06-21T15:00:00.000Z"
+  },
+  "order_items": [
+    {
+      "product": {
+        "$oid": "6754b399f6dd978e87413347"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "$oid": "6754b416318d88a8ccb44232"
+      },
+      "quantity": 3
+    }
+  ],
+  "customer_id": {
+    "$oid": "64e1fab1234567890abcd005"
+  }
+}]

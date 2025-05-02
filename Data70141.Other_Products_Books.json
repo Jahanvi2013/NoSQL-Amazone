@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e362c"
+  },
+  "author": "Herman Melville",
+  "publisher": "Richard Bentley",
+  "publication_year": 1851,
+  "ISBN": "978-1503280786",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2aa"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e3625"
+  },
+  "author": "Harper Lee",
+  "publisher": "HarperCollins",
+  "publication_year": 1960,
+  "ISBN": "978-0061120084",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e3629"
+  },
+  "author": "Mark Twain",
+  "publisher": "Harper & Brothers",
+  "publication_year": 1885,
+  "ISBN": "978-0486280615",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e3624"
+  },
+  "author": "George Orwell",
+  "publisher": "Penguin",
+  "publication_year": 1949,
+  "ISBN": "978-0451524935",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e3626"
+  },
+  "author": "F. Scott Fitzgerald",
+  "publisher": "Scribner",
+  "publication_year": 1925,
+  "ISBN": "978-0743273565",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e3623"
+  },
+  "author": "J.K. Rowling",
+  "publisher": "Bloomsbury",
+  "publication_year": 1997,
+  "ISBN": "978-0747532743",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e3627"
+  },
+  "author": "J.R.R. Tolkien",
+  "publisher": "Houghton Mifflin",
+  "publication_year": 1954,
+  "ISBN": "978-0547928210",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e3628"
+  },
+  "author": "Jane Austen",
+  "publisher": "Oxford University Press",
+  "publication_year": 1813,
+  "ISBN": "978-0199535569",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e362a"
+  },
+  "author": "Leo Tolstoy",
+  "publisher": "Penguin Classics",
+  "publication_year": 1869,
+  "ISBN": "978-0140447934",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752ccaefa582a35118e362b"
+  },
+  "author": "Mary Shelley",
+  "publisher": "Lackington, Hughes",
+  "publication_year": 1818,
+  "ISBN": "978-0486282114",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef2a9"
+  }
+}]

@@ -1,0 +1,2090 @@
+[{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87bb"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 65,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413335"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87bc"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 79,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413335"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87bd"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 80,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413336"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87be"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 93,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 1.414722,
+      "longitude": 155.775011
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413336"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87bf"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 54,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413337"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87c0"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 12,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413337"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87c1"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 45,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -32.740805,
+      "longitude": -142.959011
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413338"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87c2"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 27,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413338"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17aa0137365729e87c3"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 24,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413339"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87c4"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 27,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e87413339"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87c5"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 26,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 13.526466,
+      "longitude": -94.387018
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e8741333a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87c6"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 33,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b398f6dd978e8741333a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87c7"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 20,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87c8"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 30,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87c9"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 32,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -79.154354,
+      "longitude": -141.393017
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87ca"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 96,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87cb"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 46,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87cc"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 92,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87cd"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 94,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -72.533643,
+      "longitude": 103.731713
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87ce"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 32,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87cf"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 34,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d0"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 36,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741333f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d1"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 42,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413340"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d2"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 22,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 45.114652,
+      "longitude": -41.144638
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413340"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d3"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 37,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 21.037424,
+      "longitude": 31.313174
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413341"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d4"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 57,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413341"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d5"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 89,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -42.635272,
+      "longitude": 110.016725
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413342"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d6"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 89,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -7.11122,
+      "longitude": 92.428494
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413342"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d7"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 99,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -73.429761,
+      "longitude": -154.083983
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413343"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d8"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 82,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -39.924372,
+      "longitude": 100.981583
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413343"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87d9"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 77,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413344"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87da"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 67,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413344"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87db"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 88,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413345"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87dc"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 97,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413345"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87dd"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 65,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413346"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87de"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 90,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413346"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87df"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 14,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413347"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87e0"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 97,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413347"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87e1"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 71,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -89.723159,
+      "longitude": -103.142494
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413348"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87e2"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 58,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -31.855285,
+      "longitude": 111.99546
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413348"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87e3"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 54,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 41.743522,
+      "longitude": -76.3851
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413349"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87e4"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 12,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413349"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87e5"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 21,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87e6"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 38,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 67.292295,
+      "longitude": -86.110447
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ba0137365729e87e7"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 57,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87e8"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 68,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87e9"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 25,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87ea"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 16,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 79.846188,
+      "longitude": 5.304702
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87eb"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 74,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87ec"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 42,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 44.319708,
+      "longitude": 41.294295
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87ed"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 33,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -31.840743,
+      "longitude": -65.886647
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87ee"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 25,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87ef"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 35,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f0"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 30,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e8741334f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f1"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 89,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413350"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f2"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 37,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413350"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f3"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 16,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -40.78744,
+      "longitude": -115.755268
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413351"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f4"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 10,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413351"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f5"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 16,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 2.5154,
+      "longitude": 155.620173
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413352"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f6"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 89,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413352"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f7"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 89,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413353"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f8"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 48,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413353"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87f9"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 39,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -88.566806,
+      "longitude": -95.044837
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413354"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87fa"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 91,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413354"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87fb"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 87,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -21.416935,
+      "longitude": -85.158208
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413355"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87fc"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 37,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 69.150062,
+      "longitude": -157.458665
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413355"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87fd"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 100,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -42.702817,
+      "longitude": 112.489026
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413356"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87fe"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 23,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413356"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e87ff"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 86,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413357"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8800"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 66,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -86.450935,
+      "longitude": -165.612589
+    }
+  },
+  "product": {
+    "$oid": "6754b399f6dd978e87413357"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8801"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 55,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4422f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8802"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 20,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -11.028198,
+      "longitude": 120.041233
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4422f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8803"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 36,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 51.411412,
+      "longitude": 76.68498
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44230"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8804"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 16,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 42.748259,
+      "longitude": 174.124103
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44230"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8805"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 52,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44231"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8806"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 30,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44231"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8807"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 36,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44232"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8808"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 48,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44232"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e8809"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 24,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44233"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17ca0137365729e880a"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 20,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44233"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e880b"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 29,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44234"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e880c"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 91,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 43.306966,
+      "longitude": 34.952257
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44234"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e880d"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 59,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -60.166468,
+      "longitude": 25.146558
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44235"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e880e"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 66,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -38.653739,
+      "longitude": -29.711247
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44235"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e880f"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 41,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44236"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8810"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 80,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 19.426461,
+      "longitude": -12.00724
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44236"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8811"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 43,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -66.577865,
+      "longitude": -125.145053
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44237"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8812"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 36,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44237"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8813"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 56,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44238"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8814"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 24,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -32.907642,
+      "longitude": 19.862771
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44238"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8815"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 31,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44239"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8816"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 25,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 57.64827,
+      "longitude": 72.079004
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44239"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8817"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 60,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8818"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 21,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -56.06274,
+      "longitude": -122.081022
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8819"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 78,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e881a"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 73,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 83.627044,
+      "longitude": -68.316538
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e881b"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 78,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e881c"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 38,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 48.617276,
+      "longitude": -165.135239
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e881d"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 68,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e881e"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 51,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": 3.804708,
+      "longitude": 118.526371
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e881f"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 11,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8820"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 40,
+  "storage_warehouse": {
+    "name": "Random Warehouse",
+    "location": {
+      "latitude": -83.133832,
+      "longitude": -165.907126
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8821"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 32,
+  "storage_warehouse": {
+    "name": "New York Warehouse",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.006
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8822"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 23,
+  "storage_warehouse": {
+    "name": "Tokyo Warehouse",
+    "location": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8823"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 30,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44240"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8824"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 37,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44240"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8825"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 54,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44241"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8826"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 99,
+  "storage_warehouse": {
+    "name": "Berlin Warehouse",
+    "location": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44241"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8827"
+  },
+  "date": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "quantity": 37,
+  "storage_warehouse": {
+    "name": "Paris Warehouse",
+    "location": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44242"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754c17da0137365729e8828"
+  },
+  "date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "quantity": 48,
+  "storage_warehouse": {
+    "name": "Manchester Warehouse",
+    "location": {
+      "latitude": 53.4808,
+      "longitude": -2.2426
+    }
+  },
+  "product": {
+    "$oid": "6754b416318d88a8ccb44242"
+  }
+}]

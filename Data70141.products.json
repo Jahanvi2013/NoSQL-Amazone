@@ -1,0 +1,605 @@
+[{
+  "_id": {
+    "$oid": "6754b398f6dd978e87413337"
+  },
+  "name": "Vanilla Bean Muffin",
+  "description": "Soft and fluffy muffin with a rich vanilla flavor.",
+  "dimensions": "Medium",
+  "price": 2.69,
+  "cost": 1.2,
+  "avg_rating_score": 4
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741333e"
+  },
+  "name": "Hot Chocolate",
+  "description": "A rich and creamy hot chocolate topped with whipped cream.",
+  "dimensions": "Medium",
+  "price": 3.49,
+  "cost": 1.2,
+  "avg_rating_score": 3.25
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741333f"
+  },
+  "name": "Apple",
+  "description": "A fresh and crunchy fruit, perfect for snacking.",
+  "dimensions": "Medium",
+  "price": 1.99,
+  "cost": 0.8,
+  "avg_rating_score": 3.75
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413340"
+  },
+  "name": "Carrot",
+  "description": "A healthy root vegetable, rich in vitamin A.",
+  "dimensions": "Medium",
+  "price": 0.89,
+  "cost": 0.3,
+  "avg_rating_score": 4.5
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413347"
+  },
+  "name": "Air Conditioner",
+  "description": "An energy-efficient air conditioner for home or office use.",
+  "dimensions": "Large",
+  "price": 349.99,
+  "cost": 200,
+  "avg_rating_score": 4.12
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741334b"
+  },
+  "name": "Cordless Vacuum Cleaner",
+  "description": "A lightweight and powerful cordless vacuum cleaner for easy cleaning.",
+  "dimensions": "Medium",
+  "price": 129.99,
+  "cost": 80,
+  "avg_rating_score": 3.7
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741334d"
+  },
+  "name": "Portable Heater",
+  "description": "A portable heater with adjustable settings for personal comfort.",
+  "dimensions": "Small",
+  "price": 59.99,
+  "cost": 30,
+  "avg_rating_score": 4.02
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413356"
+  },
+  "name": "Mobile Phone G",
+  "description": "A high-end smartphone with a powerful processor and large storage capacity.",
+  "dimensions": "Medium",
+  "price": 899.99,
+  "cost": 600,
+  "avg_rating_score": 4.01
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44232"
+  },
+  "name": "The Great Gatsby",
+  "description": "A classic novel by F. Scott Fitzgerald about the American Dream and its disillusionment.",
+  "dimensions": "Medium",
+  "price": 11.99,
+  "cost": 7.5,
+  "avg_rating_score": 4.4
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44235"
+  },
+  "name": "Brave New World",
+  "description": "A novel by Aldous Huxley, presenting a futuristic dystopian society controlled by technology and conformity.",
+  "dimensions": "Medium",
+  "price": 13.99,
+  "cost": 7.5,
+  "avg_rating_score": 3.7
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb4423a"
+  },
+  "name": "Back in Black - AC/DC",
+  "description": "AC/DC's iconic rock album, featuring the legendary track 'You Shook Me All Night Long'.",
+  "dimensions": "Standard CD",
+  "price": 12.99,
+  "cost": 7.5,
+  "avg_rating_score": 3.6
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb4423b"
+  },
+  "name": "Thriller - Michael Jackson",
+  "description": "The best-selling album of all time, featuring hits like 'Billie Jean' and 'Beat It'.",
+  "dimensions": "Standard CD",
+  "price": 16.99,
+  "cost": 9,
+  "avg_rating_score": 3.85
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb4423c"
+  },
+  "name": "The Dark Side of the Moon - Pink Floyd",
+  "description": "A groundbreaking concept album by Pink Floyd, blending progressive rock and electronic sounds.",
+  "dimensions": "Standard CD",
+  "price": 18.99,
+  "cost": 10,
+  "avg_rating_score": 3.15
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb4423d"
+  },
+  "name": "Rumours - Fleetwood Mac",
+  "description": "One of the most successful albums of the 1970s, featuring the iconic song 'Go Your Own Way'.",
+  "dimensions": "Standard CD",
+  "price": 13.49,
+  "cost": 7,
+  "avg_rating_score": 4
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb4423f"
+  },
+  "name": "Born to Run - Bruce Springsteen",
+  "description": "A classic rock album by Bruce Springsteen, featuring the anthem 'Born to Run'.",
+  "dimensions": "Standard CD",
+  "price": 13.99,
+  "cost": 7,
+  "avg_rating_score": 3.8
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44241"
+  },
+  "name": "A Night at the Opera - Queen",
+  "description": "Queen's operatic masterpiece, featuring the legendary 'Bohemian Rhapsody'.",
+  "dimensions": "Standard CD",
+  "price": 16.49,
+  "cost": 9.5,
+  "avg_rating_score": 4.15
+},
+{
+  "_id": {
+    "$oid": "6754b398f6dd978e87413339"
+  },
+  "name": "Cinnamon Roll",
+  "description": "Warm, gooey cinnamon roll with cream cheese icing.",
+  "dimensions": "Large",
+  "price": 3.49,
+  "cost": 1.4,
+  "avg_rating_score": 3.9
+},
+{
+  "_id": {
+    "$oid": "6754b398f6dd978e8741333a"
+  },
+  "name": "Iced Latte",
+  "description": "A refreshing coffee drink made with espresso, cold milk, and ice.",
+  "dimensions": "Medium",
+  "price": 3.99,
+  "cost": 1.5,
+  "avg_rating_score": 3.96
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413345"
+  },
+  "name": "Blender",
+  "description": "A powerful blender for smoothies, soups, and sauces.",
+  "dimensions": "Medium",
+  "price": 49.99,
+  "cost": 25,
+  "avg_rating_score": 3.66
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413348"
+  },
+  "name": "Washing Machine",
+  "description": "A front-load washing machine with energy-saving features.",
+  "dimensions": "Large",
+  "price": 499.99,
+  "cost": 300,
+  "avg_rating_score": 4.12
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741334a"
+  },
+  "name": "Dishwasher",
+  "description": "A high-efficiency dishwasher with multiple wash cycles and energy-saving features.",
+  "dimensions": "Large",
+  "price": 349.99,
+  "cost": 200,
+  "avg_rating_score": 4.12
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741334f"
+  },
+  "name": "Smartphone Z",
+  "description": "An affordable smartphone with great camera features and long battery life.",
+  "dimensions": "Medium",
+  "price": 499.99,
+  "cost": 250,
+  "avg_rating_score": 3.6
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413350"
+  },
+  "name": "Mobile Phone A",
+  "description": "A mid-range mobile phone with a sleek design and fast charging.",
+  "dimensions": "Medium",
+  "price": 349.99,
+  "cost": 200,
+  "avg_rating_score": 3.76
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413351"
+  },
+  "name": "Mobile Phone B",
+  "description": "A budget-friendly phone with a large screen and efficient performance.",
+  "dimensions": "Large",
+  "price": 199.99,
+  "cost": 100,
+  "avg_rating_score": 3.62
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413357"
+  },
+  "name": "Mobile Phone H",
+  "description": "A sleek smartphone with a cutting-edge design and excellent display.",
+  "dimensions": "Medium",
+  "price": 649.99,
+  "cost": 350,
+  "avg_rating_score": 3.76
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb4422f"
+  },
+  "name": "The Catcher in the Rye",
+  "description": "A classic novel by J.D. Salinger, exploring the struggles of adolescence.",
+  "dimensions": "Medium",
+  "price": 10.99,
+  "cost": 6,
+  "avg_rating_score": 4.2
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44233"
+  },
+  "name": "Moby-Dick",
+  "description": "Herman Melville's epic tale of obsession and revenge centered around the hunt for a giant whale.",
+  "dimensions": "Large",
+  "price": 15.99,
+  "cost": 9,
+  "avg_rating_score": 4.7
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44240"
+  },
+  "name": "Let It Be - The Beatles",
+  "description": "The final studio album by The Beatles, featuring the iconic track 'Across the Universe'.",
+  "dimensions": "Standard CD",
+  "price": 14.49,
+  "cost": 8,
+  "avg_rating_score": 3.7
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44242"
+  },
+  "name": "Bridge Over Troubled Water - Simon & Garfunkel",
+  "description": "One of Simon & Garfunkel's most beloved albums, featuring the hit song 'Bridge Over Troubled Water'.",
+  "dimensions": "Standard CD",
+  "price": 12.49,
+  "cost": 6.5,
+  "avg_rating_score": 4
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741333c"
+  },
+  "name": "Smoothie",
+  "description": "A smoothie made with mixed fruits and yogurt.",
+  "dimensions": "Medium",
+  "price": 4.29,
+  "cost": 1.8,
+  "avg_rating_score": 3.84
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413341"
+  },
+  "name": "Banana",
+  "description": "A sweet and creamy fruit, high in potassium.",
+  "dimensions": "Large",
+  "price": 1.29,
+  "cost": 0.5,
+  "avg_rating_score": 3.98
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413342"
+  },
+  "name": "Broccoli",
+  "description": "A nutritious green vegetable, rich in vitamins and minerals.",
+  "dimensions": "Medium",
+  "price": 2.49,
+  "cost": 1,
+  "avg_rating_score": 3.48
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413344"
+  },
+  "name": "Microwave Oven",
+  "description": "A high-efficiency microwave oven, ideal for quick cooking and reheating.",
+  "dimensions": "Large",
+  "price": 99.99,
+  "cost": 50,
+  "avg_rating_score": 3.7
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413346"
+  },
+  "name": "Electric Kettle",
+  "description": "A fast-boiling electric kettle, perfect for tea and coffee.",
+  "dimensions": "Small",
+  "price": 29.99,
+  "cost": 15,
+  "avg_rating_score": 4.44
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413349"
+  },
+  "name": "Smart Refrigerator",
+  "description": "A smart refrigerator with Wi-Fi connectivity and temperature control.",
+  "dimensions": "Large",
+  "price": 799.99,
+  "cost": 450,
+  "avg_rating_score": 4.25
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413352"
+  },
+  "name": "Mobile Phone C",
+  "description": "A feature-packed phone with a high-quality camera and stunning display.",
+  "dimensions": "Medium",
+  "price": 699.99,
+  "cost": 400,
+  "avg_rating_score": 4.3
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413354"
+  },
+  "name": "Mobile Phone E",
+  "description": "A stylish phone with a slim profile and fast processor.",
+  "dimensions": "Medium",
+  "price": 599.99,
+  "cost": 320,
+  "avg_rating_score": 3.52
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413355"
+  },
+  "name": "Mobile Phone F",
+  "description": "A smartphone with an impressive camera and top-notch performance.",
+  "dimensions": "Medium",
+  "price": 799.99,
+  "cost": 500,
+  "avg_rating_score": 3.82
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44230"
+  },
+  "name": 1984,
+  "description": "A dystopian novel by George Orwell, depicting a totalitarian society.",
+  "dimensions": "Medium",
+  "price": 12.99,
+  "cost": 7,
+  "avg_rating_score": 3.55
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44231"
+  },
+  "name": "To Kill a Mockingbird",
+  "description": "A Pulitzer Prize-winning novel by Harper Lee about racial injustice in the Deep South.",
+  "dimensions": "Medium",
+  "price": 14.99,
+  "cost": 8,
+  "avg_rating_score": 3.85
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44237"
+  },
+  "name": "The Odyssey",
+  "description": "An ancient Greek epic poem attributed to Homer, telling the story of Odysseus' long journey home.",
+  "dimensions": "Large",
+  "price": 18.99,
+  "cost": 10,
+  "avg_rating_score": 4.95
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44238"
+  },
+  "name": "The Hobbit",
+  "description": "A fantasy novel by J.R.R. Tolkien about a hobbit's unexpected adventure to reclaim treasure from a dragon.",
+  "dimensions": "Medium",
+  "price": 10.49,
+  "cost": 6.5,
+  "avg_rating_score": 3.55
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44239"
+  },
+  "name": "Abbey Road - The Beatles",
+  "description": "One of the most famous albums by The Beatles, featuring hits like 'Come Together' and 'Something'.",
+  "dimensions": "Standard CD",
+  "price": 14.99,
+  "cost": 8,
+  "avg_rating_score": 4
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb4423e"
+  },
+  "name": "Hotel California - Eagles",
+  "description": "The Eagles' most famous album, featuring the legendary title track 'Hotel California'.",
+  "dimensions": "Standard CD",
+  "price": 15.99,
+  "cost": 8.5,
+  "avg_rating_score": 3.5
+},
+{
+  "_id": {
+    "$oid": "6754b398f6dd978e87413335"
+  },
+  "name": "Classic Croissant",
+  "description": "Flaky and buttery croissant, perfect for breakfast.",
+  "dimensions": "Medium",
+  "price": 2.99,
+  "cost": 1.5,
+  "avg_rating_score": 3.92
+},
+{
+  "_id": {
+    "$oid": "6754b398f6dd978e87413336"
+  },
+  "name": "Chocolate Eclair",
+  "description": "Delicious and rich eclair filled with chocolate cream.",
+  "dimensions": "Medium",
+  "price": 3.49,
+  "cost": 1.8,
+  "avg_rating_score": 3.65
+},
+{
+  "_id": {
+    "$oid": "6754b398f6dd978e87413338"
+  },
+  "name": "Chocolate Chip Cookie",
+  "description": "Classic chocolate chip cookie with a crunchy exterior and soft center.",
+  "dimensions": "Small",
+  "price": 1.99,
+  "cost": 0.8,
+  "avg_rating_score": 3.95
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741333b"
+  },
+  "name": "Fresh Orange Juice",
+  "description": "A glass of freshly squeezed orange juice.",
+  "dimensions": "Large",
+  "price": 2.49,
+  "cost": 0.8,
+  "avg_rating_score": 3.66
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741333d"
+  },
+  "name": "Green Tea",
+  "description": "A soothing cup of green tea, known for its health benefits.",
+  "dimensions": "Small",
+  "price": 2.19,
+  "cost": 0.7,
+  "avg_rating_score": 4.22
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413343"
+  },
+  "name": "Spinach",
+  "description": "A leafy green vegetable, packed with iron and vitamins.",
+  "dimensions": "Large",
+  "price": 2.99,
+  "cost": 1.2,
+  "avg_rating_score": 3.78
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741334c"
+  },
+  "name": "Toaster Oven",
+  "description": "A versatile toaster oven for baking, toasting, and broiling.",
+  "dimensions": "Medium",
+  "price": 99.99,
+  "cost": 60,
+  "avg_rating_score": 4.12
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e8741334e"
+  },
+  "name": "Smartphone X",
+  "description": "A flagship smartphone with an AMOLED display, 5G support, and 128GB storage.",
+  "dimensions": "Medium",
+  "price": 799.99,
+  "cost": 500,
+  "avg_rating_score": 4.3
+},
+{
+  "_id": {
+    "$oid": "6754b399f6dd978e87413353"
+  },
+  "name": "Mobile Phone D",
+  "description": "A durable smartphone designed for outdoor use with extended battery life.",
+  "dimensions": "Large",
+  "price": 449.99,
+  "cost": 220,
+  "avg_rating_score": 4.17
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44234"
+  },
+  "name": "Pride and Prejudice",
+  "description": "A romantic novel by Jane Austen, exploring issues of marriage and morality in the 19th century.",
+  "dimensions": "Medium",
+  "price": 9.99,
+  "cost": 5,
+  "avg_rating_score": 3.3
+},
+{
+  "_id": {
+    "$oid": "6754b416318d88a8ccb44236"
+  },
+  "name": "War and Peace",
+  "description": "A historical novel by Leo Tolstoy, exploring the Napoleonic Wars and Russian society.",
+  "dimensions": "Large",
+  "price": 19.99,
+  "cost": 12,
+  "avg_rating_score": 4.25
+}]

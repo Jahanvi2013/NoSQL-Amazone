@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef295"
+  },
+  "shipping_weight": 7,
+  "product": {
+    "$oid": "6754b399f6dd978e8741334c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef299"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b399f6dd978e87413350"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a5"
+  },
+  "shipping_weight": 0.6,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44233"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a8"
+  },
+  "shipping_weight": 1.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44236"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a9"
+  },
+  "shipping_weight": 0.5,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44237"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2aa"
+  },
+  "shipping_weight": 0.5,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44238"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2ae"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2b4"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44242"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef28f"
+  },
+  "shipping_weight": 1.5,
+  "product": {
+    "$oid": "6754b399f6dd978e87413346"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef291"
+  },
+  "shipping_weight": 70,
+  "product": {
+    "$oid": "6754b399f6dd978e87413348"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef293"
+  },
+  "shipping_weight": 40,
+  "product": {
+    "$oid": "6754b399f6dd978e8741334a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef296"
+  },
+  "shipping_weight": 3,
+  "product": {
+    "$oid": "6754b399f6dd978e8741334d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef29b"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b399f6dd978e87413352"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef29f"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b399f6dd978e87413356"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a4"
+  },
+  "shipping_weight": 0.4,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44232"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef290"
+  },
+  "shipping_weight": 35,
+  "product": {
+    "$oid": "6754b399f6dd978e87413347"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef292"
+  },
+  "shipping_weight": 90,
+  "product": {
+    "$oid": "6754b399f6dd978e87413349"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef298"
+  },
+  "shipping_weight": 0.3,
+  "product": {
+    "$oid": "6754b399f6dd978e8741334f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef29d"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b399f6dd978e87413354"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a1"
+  },
+  "shipping_weight": 0.4,
+  "product": {
+    "$oid": "6754b416318d88a8ccb4422f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a3"
+  },
+  "shipping_weight": 0.4,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44231"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a6"
+  },
+  "shipping_weight": 0.4,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44234"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a7"
+  },
+  "shipping_weight": 0.4,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44235"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2ac"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2ad"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2b1"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2b2"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44240"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef28d"
+  },
+  "shipping_weight": 13,
+  "product": {
+    "$oid": "6754b399f6dd978e87413344"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef28e"
+  },
+  "shipping_weight": 3,
+  "product": {
+    "$oid": "6754b399f6dd978e87413345"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef294"
+  },
+  "shipping_weight": 5,
+  "product": {
+    "$oid": "6754b399f6dd978e8741334b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef297"
+  },
+  "shipping_weight": 0.3,
+  "product": {
+    "$oid": "6754b399f6dd978e8741334e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef29a"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b399f6dd978e87413351"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef29c"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b399f6dd978e87413353"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef29e"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b399f6dd978e87413355"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a0"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b399f6dd978e87413357"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2a2"
+  },
+  "shipping_weight": 0.4,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44230"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2ab"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44239"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2af"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2b0"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb4423e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6754eac98af11937f37ef2b3"
+  },
+  "shipping_weight": 0.2,
+  "product": {
+    "$oid": "6754b416318d88a8ccb44241"
+  }
+}]

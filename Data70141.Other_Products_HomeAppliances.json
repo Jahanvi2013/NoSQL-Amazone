@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a198e"
+  },
+  "colour": "White",
+  "voltage": "110V",
+  "style": "Classic",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef28e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a1993"
+  },
+  "colour": "Yellow",
+  "voltage": "110V",
+  "style": "Retro",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef293"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a1994"
+  },
+  "colour": "Black",
+  "voltage": "220V",
+  "style": "Elegant",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef294"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a1996"
+  },
+  "colour": "Silver",
+  "voltage": "220V",
+  "style": "Sophisticated",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef296"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a1990"
+  },
+  "colour": "Red",
+  "voltage": "220V",
+  "style": "Contemporary",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef290"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a1991"
+  },
+  "colour": "Blue",
+  "voltage": "110V",
+  "style": "Vintage",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef291"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a1995"
+  },
+  "colour": "White",
+  "voltage": "110V",
+  "style": "Simple",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef295"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a1992"
+  },
+  "colour": "Green",
+  "voltage": "220V",
+  "style": "Industrial",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef292"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a198d"
+  },
+  "colour": "Black",
+  "voltage": "220V",
+  "style": "Modern",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef28d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752cf7f9cab0e03823a198f"
+  },
+  "colour": "Silver",
+  "voltage": "110V",
+  "style": "Minimalist",
+  "other_product": {
+    "$oid": "6754eac98af11937f37ef28f"
+  }
+}]

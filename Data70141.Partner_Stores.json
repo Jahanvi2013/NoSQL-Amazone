@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "6752d4f69cab0e03823a19ba"
+  },
+  "store_id": "partner_store_001",
+  "address": "123 Greenway, London, UK",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      0.1276,
+      51.5074
+    ]
+  },
+  "grocery_items": [
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19a6"
+      },
+      "inventory": 100
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19ab"
+      },
+      "inventory": 150
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19b0"
+      },
+      "inventory": 200
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6752d4f69cab0e03823a19bb"
+  },
+  "store_id": "partner_store_002",
+  "address": "456 Oak Street, Manchester, UK",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.2426,
+      53.4808
+    ]
+  },
+  "grocery_items": [
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19a7"
+      },
+      "inventory": 120
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19ac"
+      },
+      "inventory": 180
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19b1"
+      },
+      "inventory": 250
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6752d4f69cab0e03823a19bc"
+  },
+  "store_id": "partner_store_003",
+  "address": "789 Elm Road, Birmingham, UK",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      1.9022,
+      52.4862
+    ]
+  },
+  "grocery_items": [
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19a8"
+      },
+      "inventory": 80
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19ad"
+      },
+      "inventory": 200
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19b2"
+      },
+      "inventory": 120
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6752d4f69cab0e03823a19bd"
+  },
+  "store_id": "partner_store_004",
+  "address": "321 Pine Avenue, Liverpool, UK",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -2.9737,
+      53.4084
+    ]
+  },
+  "grocery_items": [
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19a9"
+      },
+      "inventory": 140
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19ae"
+      },
+      "inventory": 220
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19b3"
+      },
+      "inventory": 180
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6752d4f69cab0e03823a19be"
+  },
+  "store_id": "partner_store_005",
+  "address": "654 Maple Lane, Leeds, UK",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -1.5475,
+      53.8008
+    ]
+  },
+  "grocery_items": [
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19aa"
+      },
+      "inventory": 160
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19af"
+      },
+      "inventory": 200
+    },
+    {
+      "item": {
+        "$oid": "6752d39b9cab0e03823a19b4"
+      },
+      "inventory": 220
+    }
+  ]
+}]
